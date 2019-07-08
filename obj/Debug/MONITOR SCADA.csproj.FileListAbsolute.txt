@@ -1,0 +1,10 @@
+c:\users\fborguiarepetto\documents\visual studio 2013\Projects\MONITOR SCADA\MONITOR SCADA\bin\Debug\MONITOR SCADA.exe.config
+c:\users\fborguiarepetto\documents\visual studio 2013\Projects\MONITOR SCADA\MONITOR SCADA\bin\Debug\MONITOR SCADA.exe
+c:\users\fborguiarepetto\documents\visual studio 2013\Projects\MONITOR SCADA\MONITOR SCADA\bin\Debug\MONITOR SCADA.pdb
+c:\users\fborguiarepetto\documents\visual studio 2013\Projects\MONITOR SCADA\MONITOR SCADA\bin\Debug\VncSharp.dll
+c:\users\fborguiarepetto\documents\visual studio 2013\Projects\MONITOR SCADA\MONITOR SCADA\obj\Debug\MONITOR SCADA.csprojResolveAssemblyReference.cache
+c:\users\fborguiarepetto\documents\visual studio 2013\Projects\MONITOR SCADA\MONITOR SCADA\obj\Debug\MONITOR_SCADA.Form1.resources
+c:\users\fborguiarepetto\documents\visual studio 2013\Projects\MONITOR SCADA\MONITOR SCADA\obj\Debug\MONITOR_SCADA.Properties.Resources.resources
+c:\users\fborguiarepetto\documents\visual studio 2013\Projects\MONITOR SCADA\MONITOR SCADA\obj\Debug\MONITOR SCADA.csproj.GenerateResource.Cache
+c:\users\fborguiarepetto\documents\visual studio 2013\Projects\MONITOR SCADA\MONITOR SCADA\obj\Debug\MONITOR SCADA.exe
+c:\users\fborguiarepetto\documents\visual studio 2013\Projects\MONITOR SCADA\MONITOR SCADA\obj\Debug\MONITOR SCADA.pdb
