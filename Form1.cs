@@ -21,7 +21,7 @@ namespace MONITOR_SCADA
      
         }
         public static string MyPwdFunction()
-        { return "arg456"; }  
+        { return "ags2019"; }  
 
 
 
@@ -29,7 +29,7 @@ namespace MONITOR_SCADA
         {
           
             rd.GetPassword = new AuthenticateDelegate(MyPwdFunction);
-            rd.Connect("192.168.4.185",true,true);
+            rd.Connect("192.168.4.72",true,true);
         }
 
         private void timer1_Tick(object sender, EventArgs e)
